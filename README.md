@@ -44,10 +44,10 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 #### Model Building
 *    Supervised Machine learning Techniques:
-    +   Logistic Regression Model
-    +   Random Forest
-    +   Gradient Boost
-    +   XGBoost
-    +   Bagging Classifier
+    *   Logistic Regression Model
+    *   Random Forest
+    *   Gradient Boost
+    *   XGBoost
+    *   Bagging Classifier
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
