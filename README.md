@@ -1,8 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/4.1/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width=72 height=72>
-  </a>
-
+  
   <h2 align="center">Kaggle-Competition-TitanicSurvival</h2>
   <h3 align="center">Predict whether a passenger on the titanic would survive or not.</h3>
 
