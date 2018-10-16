@@ -42,12 +42,11 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 *   Feature scaling
 *   One-hot encoding
 
-#### Model Building
-*    Supervised Machine learning Techniques:
-    *   Logistic Regression Model
-    *   Random Forest
-    *   Gradient Boost
-    *   XGBoost
-    *   Bagging Classifier
+#### Model Building: Supervised Machine learning Techniques:
+*   Logistic Regression Model
+*   Random Forest
+*   Gradient Boost
+*   XGBoost 
+*   Bagging Classifier
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
