@@ -30,9 +30,6 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 * [IPython](http://ipython.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [SciKit-Learn](http://scikit-learn.org/stable/)
-* [SciPy](http://www.scipy.org/)
-* [StatsModels](http://statsmodels.sourceforge.net/)
-* [Patsy](http://patsy.readthedocs.org/en/latest/)
 * [Matplotlib](http://matplotlib.org/)
 
 #### Exploratory Data Analysis
