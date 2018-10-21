@@ -30,6 +30,9 @@
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
+#### File Description
+> There is 1 notebook available here to showcase work related to the above questions and the additional modelling work. There are also two datasets, one for training and one for testing, taken from the Kaggle competetion page. Markdown cells were used to assist in walking through the thought process for individual steps.
+
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
 * [IPython](http://ipython.org/)
@@ -53,5 +56,10 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 *   Gradient Boost
 *   XGBoost 
 *   Bagging Classifier
+
+#### Results
+>The results and findings can be found in the following blog posts:
+*   https://medium.com/@praveen.orvakanti/surviving-the-titanic-f28b39a7b10f
+*   https://medium.com/@praveen.orvakanti/this-will-help-you-score-95-percentile-in-the-kaggle-titanic-ml-competition-aa2b3fd1b79b
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
