@@ -15,7 +15,7 @@
 2. Does gender have any bearing on the survival of the passenger?
 3. Does traveling with relatives improve the chance of survival?
 
-The goal of this repository is to provide motivation for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
+>The goal of this repository is to provide motivation for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
    
 
 ### Kaggle Competition | Titanic Machine Learning from Disaster
